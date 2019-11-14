@@ -1,5 +1,6 @@
 <template>
   <div class="home">
+    <h1>This is module page</h1>
     <button @click="toggleModal">Open</button>
 
     <transition name="fade">
